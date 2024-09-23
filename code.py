@@ -7,5 +7,14 @@ def generate_password(length):
     return password
 
 if __name__ == "__main__":
-    length = int(input("Enter the desired password length: "))
+    while True:
+        try:
+            length = int(input("Enter the desired password length: "))
+            if length <= 0:
+                print("Please enter a positive integer.")
+                continue
+            break
+        except ValueError:
+            print("Invalid input. Please enter a valid integer.")
+    
     print("Generated password:", generate_password(length))
