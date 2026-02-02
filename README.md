@@ -46,6 +46,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - **Python** and **Tkinter** for making it easy to create the GUI-based script.
-
-When the script runs, it will display an interface that looks like this:
-
