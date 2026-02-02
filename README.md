@@ -1,4 +1,3 @@
-````markdown
 # Password Generator Script with Tkinter
 
 This repository contains a Python script that generates a random password and displays it in a Tkinter window. The password is **masked** with `•` characters in the UI but is still **copyable**.
@@ -35,14 +34,10 @@ This repository contains a Python script that generates a random password and di
 
 When the script runs, it will display an interface that looks like this:
 
-````
-
 Enter password length: [Text input box]
 [Generate Password Button]
 [Masked Password Entry (••••••)]
 [Copy Password Button]
-
-```
 
 ## License
 
@@ -51,4 +46,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - **Python** and **Tkinter** for making it easy to create the GUI-based script.
-```
+
+When the script runs, it will display an interface that looks like this:
+
