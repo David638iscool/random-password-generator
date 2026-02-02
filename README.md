@@ -16,11 +16,10 @@ This repository contains a Python script that generates a random password and di
 1. **Install Python** if you don’t already have it. Download and install it from [python.org](https://www.python.org/downloads/).
    
 2. **Run the Script**:
-   - Save the Python code as `password_generator.py`.
    - Open a terminal/command prompt and navigate to the folder where the script is located.
    - Run the script using:
      ```bash
-     python password_generator.py
+     python code.py
      ```
 
 3. **Enter Desired Password Length**:
